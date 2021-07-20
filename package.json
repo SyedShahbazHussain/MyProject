@@ -10,7 +10,7 @@
     "moment": "^2.24.0",
     "native-base": "^2.13.8",
     "react": "16.8.3",
-    "react-native": "0.59.9"
+    "react-native": "0.62.3"
   },
   "devDependencies": {
     "@babel/core": "7.6.2",
